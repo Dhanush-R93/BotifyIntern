@@ -1,5 +1,5 @@
 import React from 'react'
-import db from './assets/dashboard_7663921.png'
+
 const NavBar = () => {
   return (
     <div className='bg-black w-50 h-full px-3 py-5'>
